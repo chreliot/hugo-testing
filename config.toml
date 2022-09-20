@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+title = "hugo testing"
+baseURL = "https://chreliot.github.io/hugo-testing/"
 languageCode = 'en-us'
 title = '@@TITLE@@'
 
